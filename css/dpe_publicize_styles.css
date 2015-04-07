@@ -2,3 +2,10 @@
 .dpe-social-drupal:before {
   content: url('../images/drupal.png');
 }
+
+code {
+  background-color: transparent;
+  border-width: 0px;
+  border-style: none;
+  border-color: transparent;
+}
