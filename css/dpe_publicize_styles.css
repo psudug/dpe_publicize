@@ -9,3 +9,13 @@ code {
   border-style: none;
   border-color: transparent;
 }
+
+.top-bar-section .dropdown li {
+  padding: 0em;
+}
+
+.top-bar-section .dropdown li:hover {
+  border-bottom-width: 1px;
+  border-bottom-color: #dfdfdf;
+  border-bottom-style: solid;
+}
