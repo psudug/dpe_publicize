@@ -1,1 +1,4 @@
 /* CSS Document */
+.dpe-social-drupal:before {
+  content: url('../images/drupal.png');
+}
